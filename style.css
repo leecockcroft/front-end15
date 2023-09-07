@@ -314,7 +314,7 @@ align-items: inherit;
   }
 
   .container{
-    padding-bottom: 15rem;
+    padding: 0 16.5rem;
 
   }
 }
