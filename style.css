@@ -249,6 +249,8 @@ footer ul li {
 
 header{
   grid-template-columns: 1fr 1fr;
+  padding-bottom: 15rem;
+
 }
 
 .logo-wrapper{
@@ -309,5 +311,10 @@ align-items: inherit;
   }
   .img-footer-wrapper{
     padding:0;
+  }
+
+  .container{
+    padding-bottom: 15rem;
+
   }
 }
